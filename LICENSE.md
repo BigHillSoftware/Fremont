@@ -1,4 +1,4 @@
-#LICENSE
+# LICENSE
 
 ***
 
@@ -6,7 +6,7 @@
 
 ***
 
-##PERMISSIONS
+## PERMISSIONS
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software, specifically granting the rights to do the following: 
 
 * Use the Software in derivative works.
@@ -15,14 +15,14 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 * Merge the Software with derivative works.
 * Sell derivative works containing the Software. 
 
-##PROHIBITIONS
+## PROHIBITIONS
 It is specifically prohibited to do the following: 
 
 * Sell Fremont as a stand-alone product, and/or outside the scope of a derivative work. 
 * Use Fremont in any capacity without including this license notice in its entirety.
 * Use Fremont in any capacity without proper attribution (detailed below).
 
-##CONDITIONS
+## CONDITIONS
 These terms are subject to the following conditions:
 
 * This license notice in its entirety shall be included in all copies or substantial portions of the Software.
